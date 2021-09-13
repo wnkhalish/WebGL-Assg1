@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\opengllatest2\Source.cpp(281,11): warning C4101: 'tmp': unreferenced local variable
+C:\Users\User\source\repos\opengllatest2\Source.cpp(482,11): warning C4101: 'tmp': unreferenced local variable
+C:\Users\User\source\repos\opengllatest2\Source.cpp(664,11): warning C4101: 'tmp': unreferenced local variable
+  opengllatest2.vcxproj -> C:\Users\User\source\repos\opengllatest2\Debug\opengllatest2.exe
